@@ -2,9 +2,10 @@
 
 - I'm a 16 year old man from _Brazil_ [🇧🇷]
 - Currently studying web offensive security (Web application security analyst) and Python
-- Starter bug hunter at **HackerOne** ([Profile])
+- Starter bug hunter
 - Fascinate with Python!
 - Started at 07/15/2021
+- Studing C++
 
 </br>
 
@@ -22,7 +23,8 @@
 
 <img align="left" alt="Linux Systems" width="26px" src="https://www.alura.com.br/artigos/assets/python-origem/fundo-card.png" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferreirakleta&repo=github-readme-stats)](https://github.com/ferreiraklet/github-readme-stats)
+![Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
+
 
 
 
