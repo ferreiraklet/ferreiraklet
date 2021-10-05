@@ -24,6 +24,7 @@
 <img align="left" alt="Linux Systems" width="26px" src="https://www.alura.com.br/artigos/assets/python-origem/fundo-card.png" />
 
 
+
 ![Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
 
 
