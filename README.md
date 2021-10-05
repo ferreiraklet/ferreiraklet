@@ -1,7 +1,7 @@
 ### Hi there✨
 
 - 💀I'm a 16 year old man from _Brazil_ [🇧🇷]
-- 💻Currently studying web offensive security (Web application security analyst) and Python
+- 💻Currently studying web offensive security (Pentest) Python, C++ and other things
 - 🚀Starter bug hunter
 - 💀Fascinated with Python!
 - 🎯Started at 07/15/2021
@@ -24,11 +24,12 @@
 
 <img align="left" alt="Linux Systems" width="26px" src="https://www.alura.com.br/artigos/assets/python-origem/fundo-card.png" />
 
-- Currently Studing C++
-
-
+Currently Studing C++
 <hr>
- ![Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
+
+ # ![Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
+ 
+ # ![Ferreira's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraklet&layout=compact&langs_count=7&theme=dracula)
 
 
 
