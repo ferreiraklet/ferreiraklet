@@ -26,9 +26,9 @@
 
 - Currently Studing C++
 
-</br>
+
 <hr>
- [Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
+ ![Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
 
 
 
