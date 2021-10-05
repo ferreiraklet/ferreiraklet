@@ -25,6 +25,11 @@
 <img align="left" alt="Linux Systems" width="26px" src="https://www.alura.com.br/artigos/assets/python-origem/fundo-card.png" />
 
 Currently Studing C++
+
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/157279479692001281/8a574c02892eef4f9e2113524e2429d7.png?size=100?width=1280&height=728">
+</div>
 <hr>
 
  # ![Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
