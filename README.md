@@ -24,7 +24,7 @@
 
 <img align="left" alt="Linux Systems" width="26px" src="https://www.alura.com.br/artigos/assets/python-origem/fundo-card.png" />
 
-Currently Studing C++
+
 
 
 <div style="display: inline_block"><br>
