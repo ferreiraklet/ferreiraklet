@@ -28,7 +28,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/157279479692001281/8a574c02892eef4f9e2113524e2429d7.png?size=100?width=1280&height=728">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.ytimg.com/vi/z8XVP2F43Qk/maxresdefault.jpg?size=100?width=1280&height=728">
 </div>
 <hr>
 
