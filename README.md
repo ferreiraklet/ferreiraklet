@@ -33,7 +33,7 @@
 
  # ![Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
  
- # ![Ferreira's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraklet&layout=compact&langs_count=7&theme=dracula)
+ # ![Ferreira's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraklet&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
 
 
 
