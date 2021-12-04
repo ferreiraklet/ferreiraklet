@@ -19,9 +19,9 @@
 ### Languages & Knowledge:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 
 
