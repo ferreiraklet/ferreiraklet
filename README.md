@@ -12,7 +12,7 @@
 
 ### Contacts:
 
-[<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] -> **ferreira0x$#9313**
+[<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] -> **ferreira#9313**
 
 </br>
 
@@ -40,5 +40,4 @@
 
 
 <!-- Links -->
-[Profile]: https://hackerone.com/ferreira234?type=user
 [discord]: https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg
