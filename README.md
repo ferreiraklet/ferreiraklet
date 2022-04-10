@@ -19,7 +19,7 @@
 ### Languages & Knowledge:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![GO](https://img.shields.io/badge/-golang-informational)
+![GO](https://img.shields.io/badge/Golang-informational?style=flat-square&logo=go)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
           
