@@ -19,24 +19,19 @@
 ### Languages & Knowledge:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![C](https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c)
+![GO](https://img.shields.io/badge/-golang-informational)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-
-
-
+          
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.ytimg.com/vi/z8XVP2F43Qk/maxresdefault.jpg?size=100?width=1280&height=728">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://blog.joaovrmaia.com/img/o-basico-do-http-em-go/golang-http.png">
 </div>
 <hr>
 
  # ![Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferreiraklet&show_icons=true&theme=radical)
  
  # ![Ferreira's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraklet&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
-
-
-
 
 
 <!-- Links -->
