@@ -3,7 +3,7 @@
 - 💀I'm a 16 year old man from _Brazil_ [🇧🇷]
 - 💻Currently studying web offensive security (Pentest) Python, C and other things
 - 🚀Starter bug hunter
-- 💀Fascinated with Python!
+- 💀Fascinated with Golang and Python!
 - 🎯Started at 07/15/2021
 
 
