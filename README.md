@@ -1,8 +1,7 @@
 ### Hi there✨
 
-- 💀I'm a 16 year old man from _Brazil_ [🇧🇷]
-- 💻Currently studying web offensive security (Pentest) Python, C and other things
-- 🚀Starter bug hunter
+- 💀I'm a 17 year old man from _Brazil_ [🇧🇷]
+- 💻Currently studying web offensive security (Pentest) Golang, recon and other things
 - 💀Fascinated with Golang and Python!
 - 🎯Started at 07/15/2021
 
@@ -14,6 +13,8 @@
 
 [<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] -> **ferreira#9313**
 
+[<img align="center" alt="My twitter" width="24px" src="https://icon-library.com/images/twitter-circle-icon-png/twitter-circle-icon-png-5.jpg" />](Twitter) ->
+**[ferreiraklet](https://twitter.com/ferreiraklet)**
 </br>
 
 ### Languages & Knowledge:
