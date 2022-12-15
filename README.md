@@ -75,6 +75,10 @@
 <a href="https://twitter.com/ferreiraklet" target="_blank"> 
     <img src="https://img.shields.io/badge/ferreiraklet-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a> 
+<a href="https://www.instagram.com/ferreiraklet" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 
 </br>   
 
