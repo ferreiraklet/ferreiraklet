@@ -61,8 +61,14 @@
     <a href="https://www.youtube.com/channel/UCtETMrfcrExJRoxtcUVgNZQ" target="_blank"> 
           <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
     </a>
+    <a href="https://hackerone.com/fklet">
+        <img src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="My HackerOne" />
+    </a>
+    <a href="https://app.intigriti.com/researcher/profile/ferreiraklet" target="_blank">
+        <img src="https://img.shields.io/badge/Intigriti-inactive?style=for-the-badge&logo=Intigriti">
+    </a>
     <a href="https://app.hackthebox.com/users/945147" target="_blank"> 
-          <img src="https://a11ybadges.com/badge?logo=hackthebox">
+          <img src="https://img.shields.io/badge/HackTheBox-inactive?style=for-the-badge&logo=Hackthebox">
     </a>
           
           
