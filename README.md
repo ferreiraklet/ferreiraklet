@@ -77,7 +77,7 @@
 
 ### Contacts:
 
-![Discord](https://img.shields.io/badge/ferreira%3A9313-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/ferreiraklet7u-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 <a href="https://twitter.com/ferreiraklet" target="_blank"> 
     <img src="https://img.shields.io/badge/ferreiraklet-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a> 
