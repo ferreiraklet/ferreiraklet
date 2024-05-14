@@ -6,7 +6,7 @@
 
 <p align="center">
 <em>      
-- 💀I'm a 17 year man from Brazil [🇧🇷]
+- 💀I'm a 19 year man from Brazil [🇧🇷]
 <br>
 - 💻Currently studying <b>Web offensive security (Pentest)</b>, reconnaissance, bug bounty and other things
 <br>      
